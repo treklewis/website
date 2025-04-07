@@ -6,7 +6,7 @@
   --bg-color: #ffffff;
 
   --btn-color: #fdfdfd; /* button color*/
-  --btn-bg: #000; /* button bg color*/
+  --btn-bg: #35b5ac; /* button bg color*/
 
   --header-link-hover: #000000;
   --header-link-hover-bg: #bababa36;
@@ -161,7 +161,7 @@ hr {
     #54d2d0ca 89%
   );
   filter: blur(50px);
-  opacity: 0.5;
+  opacity: 1;
 }
 
 /* #dashboard { */
@@ -273,7 +273,7 @@ hr {
   overflow: hidden;
   white-space: nowrap;
   width: 100%;
-  max-width: 800px;
+  max-width: 600px;
 }
 
 .carousel {
@@ -283,7 +283,7 @@ hr {
 
 .carousel-img {
   display: inline-block;
-  margin: 0 20px;
+  margin: 0 50px;
 }
 
 @keyframes scroll {
